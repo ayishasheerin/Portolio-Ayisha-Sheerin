@@ -9,8 +9,8 @@ A simple and responsive personal portfolio website built using HTML and CSS. Thi
 
 🛠️ Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 
 ✨ Features
 
